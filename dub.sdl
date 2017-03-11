@@ -1,0 +1,5 @@
+name "stringscanner"
+description "A minimal D application."
+authors "drifter"
+copyright "Copyright © 2017, drifter"
+license "proprietary"
